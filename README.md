@@ -1,6 +1,3 @@
-Echoserver
-Echo server and client using python socket
-
 AIM:
 To develop a simple webserver to serve html programming pages.
 
@@ -51,25 +48,13 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
 
 OUTPUT:
-image image
+<img width="908" height="418" alt="image" src="https://github.com/user-attachments/assets/003df1ae-a155-4144-9e85-3fd9d185b03f" />
+
+<img width="996" height="455" alt="image" src="https://github.com/user-attachments/assets/ad0eb393-c25f-4221-a831-a09693c5b187" />
+
+
 RESULT:
 The program is executed successfully
 
-About
-Echo server and client using python socket
-
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
+ed
 Footer
