@@ -21,7 +21,7 @@ Testing the server and client
 
 ## PROGRAM:
 
-#server.py
+# server.py
 ```
 import socket
 HOST = '127.0.0.1' 
@@ -40,7 +40,7 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
             conn.sendall(data)
 ```
 
-#client.py
+# client.py
 ```
 import socket
 HOST = '127.0.0.1' 
